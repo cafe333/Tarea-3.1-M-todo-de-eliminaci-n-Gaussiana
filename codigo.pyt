@@ -44,13 +44,6 @@ print("Solución del sistema:")
 print(sol)
 
 """**Ejercicio 2**"""
-
-#   Codigo que implementa el esquema numerico
-#   del metodo de eliminacion Gaussiana para
-#   resolver sistemas de ecuaciones
-
-#   David Ezequiel Caballero González
-
 import numpy as np
 
 def gauss_elimination(A, b):
@@ -96,13 +89,6 @@ print("Solución del sistema:")
 print(sol)
 
 """**Ejercicio 3**"""
-
-#   Codigo que implementa el esquema numerico
-#   del metodo de eliminacion Gaussiana para
-#   resolver sistemas de ecuaciones
-
-#   David Ezequiel Caballero González
-
 import numpy as np
 
 def gauss_elimination(A, b):
