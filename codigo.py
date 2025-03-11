@@ -1,5 +1,5 @@
-**Ejercicio 1**
-"""
+"EJERCICIO 1"
+
 import numpy as np
 
 def gauss_elimination(A, b):
@@ -43,7 +43,7 @@ sol = gauss_elimination(A, b)
 print("Solución del sistema:")
 print(sol)
 
-"""**Ejercicio 2**"""
+"EJERCICIO 2"
 import numpy as np
 
 def gauss_elimination(A, b):
@@ -88,7 +88,7 @@ sol = gauss_elimination(A, b)
 print("Solución del sistema:")
 print(sol)
 
-"""**Ejercicio 3**"""
+"EJERCICIO 3"
 import numpy as np
 
 def gauss_elimination(A, b):
